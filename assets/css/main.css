@@ -1,13 +1,51 @@
+body {
+    background-color: #080C1C;
+}
 .body {
     margin-left: auto;
     margin-right: auto;
-    width: 55vw;
-}
-.landing {
-    margin-top: 18vh;
+    width: 60vw;
 }
 
-.placeholder {
-    background-color: gray;
-    height: 64vh;
+/* Upper Navigation Styles */
+.nav_top {
+    margin-top: 4vw;
+    display: flex;
+}
+.icon {
+    width: 4.5em;
+    height: 4.5em;
+}
+
+.icon_text {
+    margin: 0;
+    color: white;
+}
+.top {
+    font-family: 'Bellota Text', cursive;
+    font-size: 1.8em;
+    margin-bottom: -15px;
+    margin-top: 0.2em;
+}
+.bot {
+    font-family: 'Lilita One', cursive;
+    font-size: 2.5em;
+}
+
+/* Lower Navigation Styles */
+ul {
+    padding: 0;
+    margin-top: 1vw;
+    margin-bottom: 0;
+}
+.navigation {
+    font-family: 'Amiko', sans-serif;
+    font-size: 1em;
+    text-decoration: none;
+    margin-right: 1.3em;
+    color: #79C9F2;
+}
+.navigation_low {
+    list-style-type: none;
+    display: inline;
 }
