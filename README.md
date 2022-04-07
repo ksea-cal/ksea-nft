@@ -11,4 +11,6 @@ git clone https://github.com/ksea-cal/ksea-nft.git
 ```
 cd ksea-nft
 ```
-3. use standard git commands to pull, push, commit, etc.
+Editing:
+- use standard git commands to pull, push, commit, etc.
+- as this is a relatively small project, there is no need to fork or branch.
