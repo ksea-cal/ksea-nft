@@ -38,14 +38,18 @@ ul {
     margin-top: 0.5vw;
     margin-bottom: 0;
 }
-.navigation {
+.menu {
     font-family: 'Amiko', sans-serif;
     font-size: 1em;
     text-decoration: none;
     margin-right: 1.3em;
     color: #79C9F2;
+    transition: all 0.2s ease-out;
 }
-.navigation_low {
+.menu:hover {
+    color: #ff9d00;
+}
+.nav_low {
     list-style-type: none;
     display: inline;
 }
