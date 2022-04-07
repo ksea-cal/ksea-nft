@@ -1,0 +1,56 @@
+/* Landing Page Styles */
+.landing {
+    display: flex;
+    width: 60vw;
+    align-items: center;
+    margin-top: 1vw;
+}
+.landingtext {
+    font-family: 'Lilita One', cursive;
+    font-size: 7vw;
+}
+.l_left {
+    color: #FDB515;
+    margin-right: auto;
+}
+.l_right {
+    color: #1776E9;
+    margin-left: auto;
+}
+.landingimg {
+    width: 30vw;
+    height: 30vw;
+}
+
+/* Intro Paragraph Styles */
+.intro {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    width: 30vw;
+    text-align: center;
+    margin: auto;
+    margin-top: 0.5vw;
+}
+
+/* Styles for Button */
+a {
+    text-decoration: none;
+}
+.main_button {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: white;
+    background-color: #FDB515;
+    width: 15vw;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-radius: 1em;
+    margin: auto;
+    margin-top: 2vw;
+
+    transition: all 0.2s ease-out;
+}
+.main_button:hover {
+    background-color: #1776E9;
+}
