@@ -14,3 +14,5 @@ cd ksea-nft
 Editing:
 - use standard git commands to pull, push, commit, etc.
 - as this is a relatively small project, there is no need to fork or branch.
+## To Do:
+- 색깔, 폰트 생각하기! 이게 생각보다 중요해요... Figma 에서 보이는거랑 느낌이 달라...
