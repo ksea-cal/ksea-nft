@@ -18,7 +18,7 @@
 .collectiontext > h1 {
     color: #FDB515;
     font-family: 'Bowlby One SC', cursive;
-    font-size: 2.6em;
+    font-size: 2.5vw;
     margin: 0;
 }
 .collectiontext > div {
@@ -30,7 +30,7 @@
 .collectiontext > p {
     color: white;
     font-family: 'Poppins', sans-serif;
-    font-size: 1.2em;
+    font-size: 1.1vw;
     width: 20vw;
     margin: 0;
 }
