@@ -13,14 +13,22 @@
 }
 .storyphighlight {
     font-family: 'Bowlby One SC', cursive;
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: #1776E9;
     margin: 0;
 }
 .storyp {
     font-family: 'Poppins', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: white;
     width: 20vw;
     margin: 0;
+}
+.trio {
+    display: block;
+    margin: auto;
+    margin-top: 5vw;
+    margin-bottom: 12vw;
+    width: 50vw;
+    height: auto;
 }
