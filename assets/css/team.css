@@ -1,15 +1,55 @@
-.teamh1 {
+#creators > h1 {
     font-family: 'Bowlby One SC', cursive;
     text-align: center;
     color: #1776E9;
     font-size: 2.8em;
     margin: 0;
 }
-.teamp {
+#creators > p {
     font-family: 'Bowlby One SC', cursive;
     text-align: center;
     color: white;
     font-size: 1.2em;
     margin: 0;
-    margin-bottom: 5vw;
+}
+#creators > ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    margin-top: 5vw;
+}
+
+.profile {
+    list-style-type: none;
+    width: 18vw;
+    display: block;
+    margin: auto;
+}
+.profile > div {
+    width: 13vw;
+    height: 13vw;
+    background-color: gray;
+    border-radius: 6.5vw;
+    margin: auto;
+    margin-bottom: 1vw;
+}
+.profile > h2 {
+    font-family: 'Bowlby One SC', cursive;
+    text-align: center;
+    color: #FDB515;
+    font-size: 1.3em;
+    margin: 0;
+}
+.profile > h3 {
+    font-family: 'Gowun Dodum', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 1em;
+    margin: 0;
+}
+.profile > p {
+    font-family: 'Poppins', cursive;
+    text-align: center;
+    color: white;
+    font-size: 1em;
 }
