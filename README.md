@@ -1,4 +1,4 @@
-# ksea-nft
+# [ksea-nft](https://ksea-cal.github.io/ksea-nft)
 ## Introduction
 This is the main repository for the Spring 2022 KSEA NFT Project. Code is written in raw HTML and CSS. 
 ## Get Started
