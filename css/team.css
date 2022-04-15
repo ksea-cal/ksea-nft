@@ -36,6 +36,13 @@
     margin: auto;
     margin-bottom: 1vw;
 }
+.profile > img {
+    width: 12vw;
+    height: 12vw;
+    display: block;
+    margin: auto;
+    margin-bottom: 1vw;
+}
 .profile > h2 {
     font-family: 'Bowlby One SC', cursive;
     text-align: center;
