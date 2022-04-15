@@ -16,3 +16,4 @@ Editing:
 - as this is a relatively small project, there is no need to fork or branch.
 ## To Do:
 - 색깔, 폰트 생각하기! 이게 생각보다 중요해요... Figma 에서 보이는거랑 느낌이 달라...
+- FAQ 에 무슨 내용 추가할지, FAQ 페이지 어떻게 디자인할지 정하기. 
