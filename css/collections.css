@@ -3,13 +3,11 @@
     width: 60vw;
     margin-bottom: 10vw;
 }
-.gifplaceholder {
-    background-color: gray;
+.gomgif {
     height: 25vw;
     width: 25vw;
     margin-left: auto;
     margin-right: 4vw;
-    text-align: center;
 }
 .collectiontext {
     width: 25vw;
