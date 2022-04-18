@@ -1,5 +1,5 @@
 #faq {
-    height: 50vw;
+    height: 30vw;
 }
 
 #faq > h1 {
@@ -17,35 +17,26 @@
     margin-bottom: 2vw;
 }
 
-.faqelems {
+.faqelement {
     width: 60vw;
-    display: flex;
-    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 2vw;
 }
-
-.faqelem {
-    width: 29vw;
-    height: 17em;
-    background-color: #121b3f;
+.faqelement > summary {
+    color: white;
+    font-family: 'Poppins', cursive;
+    font-size: 1.2em;
 }
-
 .spacer {
-    margin-right: auto;
+    background-color: white;
+    width: 60vw;
+    height: 0.1em;
 }
-
-.faqelem > h1 {
+.faqelement > p {
     color: white;
-    font-size: 1.5em;
     font-family: 'Poppins', cursive;
-    margin: 0.8em 0.8em;
-}
-
-.faqelem > p {
-    color: white;
     font-size: 1em;
-    font-family: 'Poppins', cursive;
-    margin: 1em 1em;
 }
 
 a.faqlink {
