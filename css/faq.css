@@ -1,3 +1,7 @@
+#faq {
+    height: 50vw;
+}
+
 #faq > h1 {
     font-family: 'Bowlby One SC', cursive;
     color: white;
@@ -10,4 +14,41 @@
     width: 7vw;
     background-color: #FDB515;
     margin: auto;
+    margin-bottom: 2vw;
+}
+
+.faqelems {
+    width: 60vw;
+    display: flex;
+    padding: 0;
+    margin-bottom: 2vw;
+}
+
+.faqelem {
+    width: 29vw;
+    height: 17em;
+    background-color: #121b3f;
+}
+
+.spacer {
+    margin-right: auto;
+}
+
+.faqelem > h1 {
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Poppins', cursive;
+    margin: 0.8em 0.8em;
+}
+
+.faqelem > p {
+    color: white;
+    font-size: 1em;
+    font-family: 'Poppins', cursive;
+    margin: 1em 1em;
+}
+
+a.faqlink {
+    color: white;
+    text-decoration: underline;
 }

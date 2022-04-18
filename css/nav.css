@@ -12,9 +12,18 @@ body {
     margin-top: 3vw;
     display: flex;
 }
+.nav_top > div {
+    margin-right: auto;
+}
 .icon {
     width: 4em;
     height: 4em;
+}
+.social {
+    width: 2em;
+    height: 2em;
+    margin-top: 1em;
+    margin-left: 1em;
 }
 
 .icon_text {
